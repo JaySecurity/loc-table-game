@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://7x2vxhh224gq"]
+
+[ext_resource type="FontFile" uid="uid://dhmjl8fj21odk" path="res://Assets/Fonts/NotoSansMNerdFont-Bold.ttf" id="1_0xdop"]
+
+[resource]
+Label/font_sizes/font_size = 22
+Label/fonts/font = ExtResource("1_0xdop")

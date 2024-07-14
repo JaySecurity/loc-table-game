@@ -1,0 +1,66 @@
+[gd_scene load_steps=3 format=3 uid="uid://bkn314ncewgas"]
+
+[ext_resource type="Texture2D" uid="uid://c2d44yu61qhm1" path="res://Assets/tabletop.png" id="1_ylffw"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cif1d"]
+size = Vector2(149, 163)
+
+[node name="TableTop" type="Sprite2D"]
+texture_filter = 1
+texture = ExtResource("1_ylffw")
+
+[node name="Left" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Left"]
+position = Vector2(-368, 3)
+shape = SubResource("RectangleShape2D_cif1d")
+
+[node name="Shade" type="ColorRect" parent="Left"]
+visible = false
+offset_left = 235.0
+offset_top = -94.0
+offset_right = 495.0
+offset_bottom = 97.0
+color = Color(1, 1, 1, 0.529412)
+
+[node name="Right" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Right"]
+position = Vector2(366, 0)
+shape = SubResource("RectangleShape2D_cif1d")
+
+[node name="Shade" type="ColorRect" parent="Right"]
+visible = false
+offset_left = -94.0
+offset_top = -412.0
+offset_right = 95.0
+offset_bottom = -148.0
+color = Color(1, 1, 1, 0.529412)
+
+[node name="Top" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Top"]
+position = Vector2(1, -277)
+shape = SubResource("RectangleShape2D_cif1d")
+
+[node name="Shade" type="ColorRect" parent="Top"]
+visible = false
+offset_left = -497.0
+offset_top = -95.0
+offset_right = -235.0
+offset_bottom = 95.0
+color = Color(1, 1, 1, 0.529412)
+
+[node name="Bottom" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Bottom"]
+position = Vector2(1.5, 281.5)
+shape = SubResource("RectangleShape2D_cif1d")
+
+[node name="Shade" type="ColorRect" parent="Bottom"]
+visible = false
+offset_left = -96.0
+offset_top = 150.0
+offset_right = 95.0
+offset_bottom = 410.0
+color = Color(1, 1, 1, 0.529412)

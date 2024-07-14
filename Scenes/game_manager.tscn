@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://cyuhthtuh48gk"]
+
+[ext_resource type="PackedScene" uid="uid://bkn314ncewgas" path="res://Scenes/table_top.tscn" id="1_ucgbr"]
+[ext_resource type="PackedScene" uid="uid://dmnxgug705f5x" path="res://Scenes/Card.tscn" id="2_6ylnu"]
+[ext_resource type="Script" path="res://Scripts/deckManager.gd" id="5_q5gdj"]
+
+[node name="Game Manager" type="Node2D"]
+
+[node name="TableTop" parent="." instance=ExtResource("1_ucgbr")]
+unique_name_in_owner = true
+position = Vector2(960, 540)
+
+[node name="DeckManager" type="Node2D" parent="."]
+script = ExtResource("5_q5gdj")
+csv_path = "res://cards.csv"
+card_scene = ExtResource("2_6ylnu")

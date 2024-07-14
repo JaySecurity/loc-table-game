@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="CardData" load_steps=2 format=3 uid="uid://b1t2rh3emgxer"]
+
+[ext_resource type="Script" path="res://Scripts/cardData.gd" id="1_e0kvj"]
+
+[resource]
+resource_local_to_scene = true
+script = ExtResource("1_e0kvj")
+name = ""
+tag = ""
+influence = 0
+innovation = 0
+devSkills = 0
+community = 0
+wealth = 0
+impact = 0

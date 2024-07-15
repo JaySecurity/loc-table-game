@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://cqp156pr2rrdv"
+path="res://.godot/imported/signalprovider.png-cebfd7b417b0f7b2165d527f53ef7c58.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/signalprovider.png"
+dest_files=["res://.godot/imported/signalprovider.png-cebfd7b417b0f7b2165d527f53ef7c58.ctex"]
 
 [params]
 

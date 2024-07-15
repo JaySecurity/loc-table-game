@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://c1dl2kywn2ihd"
+path="res://.godot/imported/cryptodaytrader.png-5c4653905eb9b37878b540eb0f3e97bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/cryptodaytrader.png"
+dest_files=["res://.godot/imported/cryptodaytrader.png-5c4653905eb9b37878b540eb0f3e97bd.ctex"]
 
 [params]
 

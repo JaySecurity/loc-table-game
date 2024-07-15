@@ -1,8 +1,7 @@
-[gd_scene load_steps=7 format=3 uid="uid://dmnxgug705f5x"]
+[gd_scene load_steps=6 format=3 uid="uid://dmnxgug705f5x"]
 
-[ext_resource type="Texture2D" uid="uid://bq1iekrp120k8" path="res://Assets/Cards/frame.png" id="1_jm2dd"]
+[ext_resource type="Texture2D" uid="uid://blgdcnw11ljhr" path="res://Assets/Cards/frame.png" id="1_jm2dd"]
 [ext_resource type="Script" path="res://Scripts/card.gd" id="1_q4s61"]
-[ext_resource type="Texture2D" uid="uid://41ig44bg0f6o" path="res://Assets/Cards/mm.png" id="1_r80aa"]
 [ext_resource type="Theme" uid="uid://7x2vxhh224gq" path="res://Themes/Label.tres" id="2_ommkb"]
 [ext_resource type="FontFile" uid="uid://cm5jqx5aqk6e4" path="res://Assets/Fonts/NotoSansMNerdFont-ExtraBold.ttf" id="3_vxiuk"]
 
@@ -14,12 +13,12 @@ scale = Vector2(0.5, 0.5)
 script = ExtResource("1_q4s61")
 
 [node name="CharacterImage" type="TextureRect" parent="."]
+unique_name_in_owner = true
 offset_left = -192.0
 offset_top = -292.0
 offset_right = 192.0
 offset_bottom = 60.0
 mouse_default_cursor_shape = 2
-texture = ExtResource("1_r80aa")
 
 [node name="CardFrame" type="TextureRect" parent="."]
 unique_name_in_owner = true
@@ -71,6 +70,7 @@ visible = false
 shape = SubResource("RectangleShape2D_y2pfl")
 
 [node name="CommunityLine" type="Line2D" parent="."]
+unique_name_in_owner = true
 visible = false
 position = Vector2(20, 134)
 points = PackedVector2Array(2, 0, 2, 48, 156, 48, 156, 0, 62, 0, 2, 0)
@@ -79,6 +79,7 @@ width = 2.0
 default_color = Color(1, 1, 0.0784314, 1)
 
 [node name="WealthLine" type="Line2D" parent="."]
+unique_name_in_owner = true
 visible = false
 position = Vector2(20, 182)
 points = PackedVector2Array(2, 0, 2, 48, 156, 48, 156, 0, 62, 0, 2, 0)
@@ -87,6 +88,7 @@ width = 2.0
 default_color = Color(1, 1, 0.0784314, 1)
 
 [node name="InfluenceLine" type="Line2D" parent="."]
+unique_name_in_owner = true
 visible = false
 position = Vector2(-144, 134)
 points = PackedVector2Array(2, 0, 2, 48, 156, 48, 156, 0, 62, 0, 2, 0)
@@ -95,6 +97,7 @@ width = 2.0
 default_color = Color(1, 1, 0.0784314, 1)
 
 [node name="InnovationLine" type="Line2D" parent="."]
+unique_name_in_owner = true
 visible = false
 position = Vector2(-144, 182)
 points = PackedVector2Array(2, 0, 2, 48, 156, 48, 156, 0, 62, 0, 2, 0)
@@ -103,6 +106,7 @@ width = 2.0
 default_color = Color(1, 1, 0.0784314, 1)
 
 [node name="DevSkillsLine" type="Line2D" parent="."]
+unique_name_in_owner = true
 visible = false
 position = Vector2(-144, 226)
 points = PackedVector2Array(2, 0, 2, 48, 156, 48, 156, 0, 62, 0, 2, 0)
@@ -111,6 +115,7 @@ width = 2.0
 default_color = Color(1, 1, 0.0784314, 1)
 
 [node name="ImpactLine" type="Line2D" parent="."]
+unique_name_in_owner = true
 visible = false
 position = Vector2(20, 226)
 points = PackedVector2Array(2, 0, 2, 48, 156, 48, 156, 0, 62, 0, 2, 0)

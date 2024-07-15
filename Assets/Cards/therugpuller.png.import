@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://5acqp6luhv2n"
+path="res://.godot/imported/therugpuller.png-a9b3292f5f7eb86edf4b6a8929a246b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/therugpuller.png"
+dest_files=["res://.godot/imported/therugpuller.png-a9b3292f5f7eb86edf4b6a8929a246b5.ctex"]
 
 [params]
 

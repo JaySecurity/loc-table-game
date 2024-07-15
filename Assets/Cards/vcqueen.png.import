@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://bm34ffp0ekuq3"
+path="res://.godot/imported/vcqueen.png-f51533944417f774ffd65c34d3a16182.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/vcqueen.png"
+dest_files=["res://.godot/imported/vcqueen.png-f51533944417f774ffd65c34d3a16182.ctex"]
 
 [params]
 

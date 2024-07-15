@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://cdqk5e2a035xu"
+path="res://.godot/imported/cryptokol.png-368c82c54cfb4c627b975f4c223eb917.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/cryptokol.png"
+dest_files=["res://.godot/imported/cryptokol.png-368c82c54cfb4c627b975f4c223eb917.ctex"]
 
 [params]
 

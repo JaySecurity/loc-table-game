@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://41ig44bg0f6o"
-path="res://.godot/imported/mm.png-570cabc5102590af1531d6711ca044fa.ctex"
+uid="uid://chxmyk1xv1b4q"
+path="res://.godot/imported/icomillionaire.png-fa0aa2eaf596ca866d9c836f5c00e901.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/mm.png"
-dest_files=["res://.godot/imported/mm.png-570cabc5102590af1531d6711ca044fa.ctex"]
+source_file="res://Assets/Cards/icomillionaire.png"
+dest_files=["res://.godot/imported/icomillionaire.png-fa0aa2eaf596ca866d9c836f5c00e901.ctex"]
 
 [params]
 

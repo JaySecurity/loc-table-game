@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://duei0g1404ya5"
+path="res://.godot/imported/marketmakermoneytaker.png-fc8700192d51bd2ace2e7c4eccf658b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/marketmakermoneytaker.png"
+dest_files=["res://.godot/imported/marketmakermoneytaker.png-fc8700192d51bd2ace2e7c4eccf658b6.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://cni82wka84m6i"
+path="res://.godot/imported/yeildfarmer.png-a8f365b9bff04efe2dff843f4c0ed4b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/yeildfarmer.png"
+dest_files=["res://.godot/imported/yeildfarmer.png-a8f365b9bff04efe2dff843f4c0ed4b1.ctex"]
 
 [params]
 

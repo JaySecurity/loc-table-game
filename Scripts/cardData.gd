@@ -9,4 +9,5 @@ class_name CardData
 @export var community: int
 @export var wealth: int
 @export var impact: int
-@export var image: Resource
+@export var highlight: String
+@export var image: Texture

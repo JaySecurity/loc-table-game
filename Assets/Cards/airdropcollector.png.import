@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blgdcnw11ljhr"
-path="res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"
+uid="uid://dh3gffywcbpdh"
+path="res://.godot/imported/airdropcollector.png-161b51fc705b0f3dbd5d7934dbd7ecac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Cards/frame.png"
-dest_files=["res://.godot/imported/frame.png-d5b801e3ab436ba9fa738a55b3778600.ctex"]
+source_file="res://Assets/Cards/airdropcollector.png"
+dest_files=["res://.godot/imported/airdropcollector.png-161b51fc705b0f3dbd5d7934dbd7ecac.ctex"]
 
 [params]
 

@@ -1,3 +1,17 @@
 [remap]
 
-importer="keep"
+importer="csv_translation"
+type="Translation"
+uid="uid://b36tp3u4bgyd1"
+
+[deps]
+
+files=["res://cards.the main thing is to know the time.translation", "res://cards.59.translation", "res://cards.94.translation", "res://cards.18.translation", "res://cards.85.translation", "res://cards.56.translation", "res://cards.87.translation", "res://cards.wealth.translation"]
+
+source_file="res://cards.csv"
+dest_files=["res://cards.the main thing is to know the time.translation", "res://cards.59.translation", "res://cards.94.translation", "res://cards.18.translation", "res://cards.85.translation", "res://cards.56.translation", "res://cards.87.translation", "res://cards.wealth.translation"]
+
+[params]
+
+compress=false
+delimiter=1
